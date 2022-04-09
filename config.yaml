@@ -1,0 +1,6 @@
+DATA_DIR : 'content/dataset/data'
+MODELS_DIR : 'content/models'
+TARGET_NAME : 'family'
+IMAGE_WIDTH : 128
+IMAGE_HEIGHT : 128
+IMAGE_DEPTH : 3

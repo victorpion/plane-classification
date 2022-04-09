@@ -1,0 +1,9 @@
+
+---
+MODEL_DIR: "models"
+
+
+
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 128
+IMAGE_DEPTH: 3
