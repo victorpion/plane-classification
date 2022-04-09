@@ -9,14 +9,6 @@ from PIL import Image
 import yaml
 from yaml import SafeLoader
 
-"""
-Conda activate planes
-Cd documents
-Cd planes
-streamlit run app.py
-
-"""
-
 with open('launch.yaml') as f:
     
     data = yaml.load(f, Loader=SafeLoader)
