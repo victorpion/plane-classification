@@ -2,7 +2,7 @@
 
 Ce projet a pour but de créer une application Streamlit pour détecter le modèle d'un avion sur une image donnée.
 
-Le notebook *** a servi a entrainé les modèles : manufacturer, family et variant.
+Le notebook entrainement.ipynb a servi a entrainé les modèles : manufacturer, family et variant.
 
 Le fichier app.py permet de déployer l'application Streamlit.
 
